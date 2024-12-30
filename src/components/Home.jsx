@@ -15,7 +15,7 @@ const Home = () => {
         
         <div>
           <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600'>{/*group is for grouping buttontext and icon*/}
-            <a href="/MohammadZameer_Resume.pdf" download>Download CV</a>
+            <a href="/Mohammad_Zameer_Resume.pdf" download>Download CV</a>
             <HiDownload className='ml-1'/>
           </button>
         </div>
